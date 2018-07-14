@@ -1,7 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="967648ef-e01f-4ee2-af61-beca6c0c1e5d" name="Default" comment="" />
+    <list default="true" id="967648ef-e01f-4ee2-af61-beca6c0c1e5d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/commandersSphere.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/CommandersSphere.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/darksteelIngot.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/DarksteelIngot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/empyrialPlate.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/EmpyrialPlate.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/howlingMine.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/HowlingMine.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/immoratlSun.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/ImmoratlSun.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/keeningStone.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/KeeningStone.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/lightningGreaves.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/LightningGreaves.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/nevinyrallsDisk.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/NevinyrallsDisk.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/prismaticGeoscope.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/PrismaticGeoscope.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/solRing.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/SolRing.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/templeBell.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/TempleBell.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Artifact/vensersJournal.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Artifact/VensersJournal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/beird.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/Beird.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/blazingArchon.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/BlazingArchon.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/chasmSkulker.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/ChasmSkulker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/edricSpymasterOfTrest.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/EdricSpymasterOfTrest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/gerrardCapashen.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/GerrardCapashen.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/horizonChimera.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/HorizonChimera.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/hushwingGryff.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/HushwingGryff.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/kazuulTyrantOfTheCliffs.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/KazuulTyrantOfTheCliffs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/portalMage.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/PortalMage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/progenitorMimic.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/ProgenitorMimic.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/psychosisCrawler.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/PsychosisCrawler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/realmSeekers.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/RealmSeekers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/requiemAngel.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/RequiemAngel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/rubblehulk.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/Rubblehulk.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/selflessSquire.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/SelflessSquire.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/selvalaExplorerReturned.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/SelvalaExplorerReturned.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/serendibSorcerer.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/SerendibSorcerer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/sidarKondoOfJamuraa.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/SidarKondoOfJamuraa.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/soaringShowOff.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/SoaringShowOff.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/veteranExplorer.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/VeteranExplorer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Creature/windbornMuse.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Creature/WindbornMuse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Enchantment/curse/curseOfOpulence.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Enchantment/curse/CurseOfOpulence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Enchantment/curse/curseOfTheBloodyTome.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Enchantment/curse/CurseOfTheBloodyTome.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Enchantment/fertileGround.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Enchantment/FertileGround.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Enchantment/ghostlyPrison.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Enchantment/GhostlyPrison.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Enchantment/hoofprintsOfTheStag.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Enchantment/HoofprintsOfTheStag.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Enchantment/lurkingPredators.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Enchantment/LurkingPredators.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Enchantment/oathOfDruids.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Enchantment/OathOfDruids.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Enchantment/propaganda.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Enchantment/Propaganda.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Enchantment/ritesOfFlourishing.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Enchantment/RitesOfFlourishing.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Enchantment/sphereOfSafety.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Enchantment/SphereOfSafety.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/arcaneDenial.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/ArcaneDenial.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/beastWithin.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/BeastWithin.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/benefactorsDraught.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/BenefactorsDraught.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/chaosWarp.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/ChaosWarp.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/cometStorm.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/CometStorm.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/entrapmentManeuver.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/EntrapmentManeuver.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/harrow.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/Harrow.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/oblation.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/Oblation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/rebuilding.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/Rebuilding.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/reinsOfPower.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/ReinsOfPower.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/scryedFire.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/ScryedFire.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/swanSong.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/SwanSong.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/swordsToPlowshares.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/SwordsToPlowshares.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/sylvanReclamation.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/SylvanReclamation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/trevasCharm.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/TrevasCharm.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Instant/urzasRage.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Instant/UrzasRage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/a.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/A.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/a1.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/A1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/a2.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/A2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/a3.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/A3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/at.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/At.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/battlefield.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Battlefield.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/beginning.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Beginning.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/card.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Card.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/card1.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Card1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/card2.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Card2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/didnt.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Didnt.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/draw.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Draw.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/draws.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Draws.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/each.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Each.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/each1.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Each1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/end.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/End.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/from.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/From.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/hand.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Hand.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/her.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Her.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/his.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/His.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/human.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Human.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/land.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Land.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/may.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/May.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/of.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Of.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/onto.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Onto.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/opponent.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Opponent.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/or.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Or.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/player.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Player.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/put.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Put.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/soldier.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Soldier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/step.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Step.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/the.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/The.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/the1.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/The1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/then.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Then.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/who.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Who.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Kynaios/your.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Kynaios/Your.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/basicLands/forest.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/basicLands/Forest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/basicLands/island.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/basicLands/Island.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/basicLands/mountain.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/basicLands/Mountain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/basicLands/plain.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/basicLands/Plain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/basicLands/swamp.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/basicLands/Swamp.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/ashBarrens.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/AshBarrens.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/azoriusChancery.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/AzoriusChancery.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/commandTower.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/CommandTower.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/evolvingWilds.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/EvolvingWilds.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/exoticOrchard.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/ExoticOrchard.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/forbiddenOrchard.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/ForbiddenOrchard.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/frontierBivouac.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/FrontierBivouac.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/gruulTurf.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/GruulTurf.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/homewardPath.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/HomewardPath.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/izzetBoilerworks.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/IzzetBoilerworks.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/jungleShrine.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/JungleShrine.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/krosanVerge.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/KrosanVerge.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/myriadLandscape.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/MyriadLandscape.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/mysticMonastery.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/MysticMonastery.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/opalPalace.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/OpalPalace.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/ruptureSpire.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/RuptureSpire.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/seasideCitadel.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/SeasideCitadel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/selesnyaSanctuary.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/SelesnyaSanctuary.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/terramorphicExpanse.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/TerramorphicExpanse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/tranquilCove.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/TranquilCove.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/transguildPromenade.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/TransguildPromenade.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/vividCreek.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/VividCreek.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Main.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/blasphemousAct.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/BlasphemousAct.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/collectiveVoyage.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/CollectiveVoyage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/cultivate.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/Cultivate.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/fortunateFew.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/FortunateFew.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/kodamasReach.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/KodamasReach.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/mindsAglow.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/MindsAglow.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/ressurectMelody.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/RessurectMelody.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/reverseTheSands.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/ReverseTheSands.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/seedsOfRenewal.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/SeedsOfRenewal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/temptWithDiscovery.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/TemptWithDiscovery.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/treacheruosTerrain.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/TreacheruosTerrain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Sorcery/waveOfReckoning.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Sorcery/WaveOfReckoning.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/X.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/X.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/and.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/And.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/at.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/At.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/beginning.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Beginning.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/cards.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Cards.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/control.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Control.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/draw.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Draw.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/gain.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Gain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/gains.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Gains.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/is.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Is.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/life.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Life.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/minotaur.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Minotaur.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/monk.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Monk.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/number.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Number.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/of.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Of.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/opponent.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Opponent.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/opponents.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Opponents.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/own.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Own.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/permament.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Permament.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/permaments.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Permaments.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/red_white_blue.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Red_White_Blue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/target.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Target.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/that.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/That.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/the.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/The.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/upkeep.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Upkeep.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/where.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Where.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/you.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/You.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/Aleksey/Zedruu/your.java" afterPath="$PROJECT_DIR$/src/com/aleksey/Zedruu/Your.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ManyClasses/com/Aleksey/Main.class" afterPath="$PROJECT_DIR$/out/production/ManyClasses/com/Aleksey/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -10,16 +177,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.20.0" />
+      </map>
+    </option>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Main.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aleksey/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
+                <element signature="e#86#87#0" expanded="true" />
                 <element signature="e#135#136#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VividCreek.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/VividCreek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -32,6 +217,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -69,7 +257,10 @@
         <option value="$PROJECT_DIR$/src/com/Aleksey/Zedruu/target.java" />
         <option value="$PROJECT_DIR$/src/com/Aleksey/Lands/basicLands/swamp.java" />
         <option value="$PROJECT_DIR$/src/com/Aleksey/Enchantment/ghostlyPrison.java" />
+        <option value="$PROJECT_DIR$/src/com/Aleksey/Creature/realmSeekers.java" />
         <option value="$PROJECT_DIR$/src/com/Aleksey/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/aleksey/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/VividCreek.java" />
       </list>
     </option>
   </component>
@@ -79,11 +270,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="680" />
+    <option name="y" value="252" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -99,9 +292,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,18 +312,23 @@
               <item name="ManyClasses" type="b2602c69:ProjectViewProjectNode" />
               <item name="ManyClasses" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Aleksey" type="462c0819:PsiDirectoryNode" />
+              <item name="aleksey" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,7 +342,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.aleksey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.aleksey.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ManyClasses" />
+      <envs />
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.Aleksey.Main" />
@@ -175,9 +393,14 @@
       <envs />
       <method />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -194,43 +417,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531463966447</updated>
-      <workItem from="1531463979967" duration="3476000" />
+      <workItem from="1531463979967" duration="3810000" />
+      <workItem from="1531484029623" duration="2453000" />
+      <workItem from="1531487779336" duration="982000" />
+      <workItem from="1531544899932" duration="987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3476000" />
+    <option name="totallyTimeSpent" value="8232000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="680" y="252" width="1280" height="773" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39918032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -273,415 +500,443 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Artifact/templeBell.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Artifact/TempleBell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Artifact/prismaticGeoscope.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Artifact/PrismaticGeoscope.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Artifact/keeningStone.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Artifact/KeeningStone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Artifact/vensersJournal.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Artifact/VensersJournal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/kazuulTyrantOfTheCliffs.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/KazuulTyrantOfTheCliffs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/chasmSkulker.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/ChasmSkulker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/realmSeekers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/selflessSquire.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/SelflessSquire.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/windbornMuse.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/WindbornMuse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/soaringShowOff.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/SoaringShowOff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/beird.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/Beird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/edricSpymasterOfTrest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/EdricSpymasterOfTrest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/selvalaExplorerReturned.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/SelvalaExplorerReturned.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/blazingArchon.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/BlazingArchon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/horizonChimera.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/HorizonChimera.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/psychosisCrawler.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/PsychosisCrawler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/veteranExplorer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/VeteranExplorer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/sidarKondoOfJamuraa.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/SidarKondoOfJamuraa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/hushwingGryff.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/HushwingGryff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/progenitorMimic.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/ProgenitorMimic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/rubblehulk.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/Rubblehulk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/arcaneDenial.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/ArcaneDenial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/beastWithin.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/BeastWithin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/sylvanReclamation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/SylvanReclamation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/reinsOfPower.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/ReinsOfPower.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/swanSong.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/SwanSong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/swordsToPlowshares.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/SwordsToPlowshares.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/entrapmentManeuver.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/EntrapmentManeuver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/oblation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/Oblation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/urzasRage.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/UrzasRage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/benefactorsDraught.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/BenefactorsDraught.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/cometStorm.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/CometStorm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/scryedFire.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/ScryedFire.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/harrow.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/Harrow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/rebuilding.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/Rebuilding.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/trevasCharm.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/TrevasCharm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/serendibSorcerer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/SerendibSorcerer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Instant/chaosWarp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Instant/ChaosWarp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/tranquilCove.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/TranquilCove.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Lands/nonBasicLands/vividCreek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/requiemAngel.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/RequiemAngel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/portalMage.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/PortalMage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Sorcery/fortunateFew.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Sorcery/FortunateFew.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Artifact/immoratlSun.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Artifact/ImmoratlSun.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Artifact/nevinyrallsDisk.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Artifact/NevinyrallsDisk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Artifact/lightningGreaves.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Artifact/LightningGreaves.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Artifact/darksteelIngot.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Artifact/DarksteelIngot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Creature/gerrardCapashen.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/GerrardCapashen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Enchantment/curse/curseOfOpulence.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Enchantment/curse/CurseOfOpulence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Enchantment/curse/curseOfTheBloodyTome.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Enchantment/curse/CurseOfTheBloodyTome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Creature/RealmSeekers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Aleksey/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
+            <element signature="e#86#87#0" expanded="true" />
             <element signature="e#135#136#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aleksey/Lands/nonBasicLands/VividCreek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ManyClasses</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
